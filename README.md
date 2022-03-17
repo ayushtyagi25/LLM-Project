@@ -1,1 +1,2 @@
-# LLM-Project
+# Goggly_Training
+Goggly Training
